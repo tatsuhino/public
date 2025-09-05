@@ -1,3 +1,6 @@
+```
+
+
 import { Client } from 'ldapts'
 
 async function testLdapConnection() {
@@ -31,3 +34,7 @@ async function testLdapConnection() {
 }
 
 testLdapConnection()
+
+
+
+```
